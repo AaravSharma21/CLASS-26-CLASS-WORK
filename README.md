@@ -1,2 +1,2 @@
-# CLASS-26-CLASS-WORK
-GIT BASH PLATFOIRM CREATED
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
